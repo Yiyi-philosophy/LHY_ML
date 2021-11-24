@@ -8,7 +8,7 @@ The link of vedio:
 > https://www.bilibili.com/video/BV1Wv411h7kN
 
 
-[The example](./02 Deep Learning/note_2.md)
+[The example: Note 2](https://github.com/Yiyi-philosophy/LHY_ML/blob/master/02%20Deep%20Learning/note_2.md)
 ## Catalog
 
 1. 第一节 Introduction  作业 HW1: Regression
